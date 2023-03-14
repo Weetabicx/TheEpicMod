@@ -1,0 +1,3 @@
+displayName = EpicMod
+author = Weetabicx
+version = 0.1
