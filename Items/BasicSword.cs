@@ -14,12 +14,12 @@ namespace TheEpicMod.Items
 
 		public override void SetDefaults()
 		{
-			Item.damage = 50;
+			Item.damage = 5000;
 			Item.DamageType = DamageClass.Melee;
-			Item.width = 40;
-			Item.height = 40;
+			Item.width = 400;
+			Item.height = 400;
 			Item.useTime = 20;
-			Item.useAnimation = 20;
+			Item.useAnimation = 10;
 			Item.useStyle = 1;
 			Item.knockBack = 6;
 			Item.value = 10000;
