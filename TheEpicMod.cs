@@ -4,5 +4,6 @@ namespace TheEpicMod
 {
 	public class TheEpicMod : Mod
 	{
+		
 	}
 }
